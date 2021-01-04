@@ -17,4 +17,4 @@
 
 # Screenshots:
 ![img_20210104_232257 (1)](https://user-images.githubusercontent.com/48565759/103565874-1b750d80-4ee7-11eb-93f7-7b059faaaeb3.png)
-![Webp net-resizeimage (2)](https://user-images.githubusercontent.com/48565759/103566298-c980b780-4ee7-11eb-812b-30452c32a21d.png)
+![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/48565759/103566440-064cae80-4ee8-11eb-9d01-e2275299ed90.png)

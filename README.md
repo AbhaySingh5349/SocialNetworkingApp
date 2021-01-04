@@ -37,3 +37,5 @@
 --> [Country Phone Code Selector](https://github.com/hbb20/CountryCodePickerProject)
 
 --> [Grid Layout](https://developer.android.com/jetpack/androidx/releases/gridlayout)
+
+--> [Custom Tabs for reCAPTCHA Verification](https://developers.google.com/web/android/custom-tabs/implementation-guide)

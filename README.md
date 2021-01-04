@@ -39,3 +39,6 @@
 --> [Grid Layout](https://developer.android.com/jetpack/androidx/releases/gridlayout)
 
 --> [Custom Tabs for reCAPTCHA Verification](https://developers.google.com/web/android/custom-tabs/implementation-guide)
+
+# Developed By:
+--> Abhay Singh:Feedback is highly appreciated, report any issues or drop suggestions at:[abhay5349singh@gmail.com](mailto:abhay5349singh@gmail.com)

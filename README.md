@@ -24,3 +24,14 @@
 ![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/48565759/103567301-94756480-4ee9-11eb-953a-f5e9a23ca8c0.png)
 ![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/48565759/103567601-1b2a4180-4eea-11eb-8934-3c14b7e47eb6.png)
 ![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/48565759/103567732-5af12900-4eea-11eb-93ea-457d116ef993.png)
+
+# Libraries:
+--> [ButterKnife View Binding](https://github.com/JakeWharton/butterknife)
+
+--> [Circle Image View](https://github.com/hdodenhof/CircleImageView)
+
+--> [Material Design Library](https://github.com/navasmdc/MaterialDesignLibrary)
+
+--> [Glide Media Management](https://github.com/bumptech/glide)
+
+--> [Country Phone Code Selector](https://github.com/hbb20/CountryCodePickerProject)

@@ -29,11 +29,11 @@
 # Libraries:
 --> [ButterKnife View Binding](https://github.com/JakeWharton/butterknife)
 
+--> [Glide Media Management](https://github.com/bumptech/glide)
+
 --> [Circle Image View](https://github.com/hdodenhof/CircleImageView)
 
 --> [Material Design Library](https://github.com/navasmdc/MaterialDesignLibrary)
-
---> [Glide Media Management](https://github.com/bumptech/glide)
 
 --> [Country Phone Code Selector](https://github.com/hbb20/CountryCodePickerProject)
 

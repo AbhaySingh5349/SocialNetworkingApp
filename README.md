@@ -27,6 +27,8 @@
 ![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/48565759/103567732-5af12900-4eea-11eb-93ea-457d116ef993.png)
 
 # Libraries:
+--> [Country Phone Code Selector](https://github.com/hbb20/CountryCodePickerProject)
+
 --> [ButterKnife View Binding](https://github.com/JakeWharton/butterknife)
 
 --> [Glide Media Management](https://github.com/bumptech/glide)
@@ -34,8 +36,6 @@
 --> [Circle Image View](https://github.com/hdodenhof/CircleImageView)
 
 --> [Material Design Library](https://github.com/navasmdc/MaterialDesignLibrary)
-
---> [Country Phone Code Selector](https://github.com/hbb20/CountryCodePickerProject)
 
 --> [Grid Layout](https://developer.android.com/jetpack/androidx/releases/gridlayout)
 

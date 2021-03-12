@@ -7,9 +7,9 @@
 
 --> Send/Accept friend request to users of app to add them in Friends list and see posts upload by them.
 
---> See notifications of activities like: friend request accepted/received or if someone reacted on your post.
-
 --> Upload image/video posts with captions ( may contain Hash Tags(#) ).
+
+--> See notifications of activities like: friend request accepted/received or if someone reacted on your post.
 
 --> Search post categorgy on basis of Hash Tags(#) in caption.
 

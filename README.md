@@ -31,9 +31,9 @@
 
 --> [Circle Image View](https://github.com/hdodenhof/CircleImageView)
 
---> [ButterKnife View Binding](https://github.com/JakeWharton/butterknife)
-
 --> [Glide Media Management](https://github.com/bumptech/glide)
+
+--> [ButterKnife View Binding](https://github.com/JakeWharton/butterknife)
 
 --> [Material Design Library](https://github.com/navasmdc/MaterialDesignLibrary)
 

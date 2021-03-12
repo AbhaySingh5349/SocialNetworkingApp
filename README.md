@@ -29,9 +29,9 @@
 # Libraries:
 --> [Country Phone Code Selector](https://github.com/hbb20/CountryCodePickerProject)
 
---> [ButterKnife View Binding](https://github.com/JakeWharton/butterknife)
-
 --> [Circle Image View](https://github.com/hdodenhof/CircleImageView)
+
+--> [ButterKnife View Binding](https://github.com/JakeWharton/butterknife)
 
 --> [Glide Media Management](https://github.com/bumptech/glide)
 

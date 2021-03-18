@@ -9,9 +9,9 @@
 
 --> Upload image/video posts with captions ( may contain Hash Tags(#) ).
 
---> Search post categorgy on basis of Hash Tags(#) in caption.
-
 --> Save, like or add comment on post uploaded in your feed.
+
+--> Search post categorgy on basis of Hash Tags(#) in caption.
 
 --> See notifications of activities like: friend request accepted/received or if someone reacted on your post.
 

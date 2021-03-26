@@ -11,9 +11,9 @@
 
 --> Search post categorgy on basis of Hash Tags(#) in caption.
 
---> Save, like or add comment on post uploaded in your feed.
-
 --> See notifications of activities like: friend request accepted/received or if someone reacted on your post.
+
+--> Save, like or add comment on post uploaded in your feed.
 
 # Screenshots:
 ![img_20210104_232257 (1)](https://user-images.githubusercontent.com/48565759/103565874-1b750d80-4ee7-11eb-93f7-7b059faaaeb3.png)

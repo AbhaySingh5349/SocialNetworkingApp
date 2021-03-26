@@ -3,9 +3,9 @@
 
 --> Edit profile to add bio, profile image, profile name.
 
---> Send/Accept friend request to users of app to add them in Friends list and see posts upload by them.
-
 --> Search friends, relatives using the application.
+
+--> Send/Accept friend request to users of app to add them in Friends list and see posts upload by them.
 
 --> Upload image/video posts with captions ( may contain Hash Tags(#) ).
 

@@ -1,7 +1,7 @@
 # Features of App:
---> Phone Number Registration using Firebase Authentication.
-
 --> Edit profile to add bio, profile image, profile name.
+
+--> Phone Number Registration using Firebase Authentication.
 
 --> Search friends, relatives using the application.
 

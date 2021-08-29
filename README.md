@@ -27,9 +27,9 @@
 ![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/48565759/103567732-5af12900-4eea-11eb-93ea-457d116ef993.png)
 
 # Libraries:
---> [Country Phone Code Selector](https://github.com/hbb20/CountryCodePickerProject)
-
 --> [Circle Image View](https://github.com/hdodenhof/CircleImageView)
+
+--> [Country Phone Code Selector](https://github.com/hbb20/CountryCodePickerProject)
 
 --> [Glide Media Management](https://github.com/bumptech/glide)
 
